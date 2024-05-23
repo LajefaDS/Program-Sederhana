@@ -1,6 +1,6 @@
 <template>
-  <div class="d-flex justify-content-center align-items-center" style="margin-top: 13%;">
-    <div class="container p-5 form-control border-info border-3 rounded-5" style="width: 50%;">
+  <div class="d-flex justify-content-center align-items-center" style="margin-top: 15%;">
+    <div class="container p-5 form-control border-info border-3 rounded-5" style="width: 90%;">
       <form
         @submit.prevent="submitForm"
         style="

@@ -24,7 +24,7 @@
     </nav>
   </div>
 
-  <div style="margin-top: 13%">
+  <div style="margin-top: 15%">
     <h1 class="text-center m-3">Informasi Kontak Saya</h1>
     <p class="text-center text-primary m-3">
       Berikut adalah informasi kontak dan alamat saya:
